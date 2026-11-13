@@ -134,3 +134,4 @@ h1, h2, h3 { line-height: 1.1; margin: 0 0 .5em; }
   html { scroll-behavior: auto; }
   .intro-mark img { animation: none; }
 }
+.studio .contact { color: var(--text); font-weight: 500; }
